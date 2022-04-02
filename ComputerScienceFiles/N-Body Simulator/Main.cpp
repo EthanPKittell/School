@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
             
             totalTime = totalTime - deltaTime;
             window.display();
-            //universe.printPlanetValues();
+            universe.printPlanetValues();
           }
     }
     
